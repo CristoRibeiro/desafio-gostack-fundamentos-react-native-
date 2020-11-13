@@ -1,5 +1,5 @@
 {
-  "name": "GoMarketplace",
+  "name": "gomarketplace",
   "version": "0.0.1",
   "private": true,
   "scripts": {
@@ -57,6 +57,6 @@
     "prettier": "^2.0.4",
     "react-test-renderer": "16.11.0",
     "ts-jest": "^25.4.0",
-    "typescript": "^3.8.3"
+    "typescript": "^4.0.5"
   }
 }
